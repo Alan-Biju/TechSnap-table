@@ -46,7 +46,7 @@
     width: fit-content;
 }
 .section1 {
-	justify-content: space-between;
+	justify-content: space-around;
     
 }
 
